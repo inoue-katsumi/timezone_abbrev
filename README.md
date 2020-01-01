@@ -12,6 +12,7 @@ $ ./dmesgtime.sh
 ## dmesgtime.sh:
 
 Converts time offset in dmesg output to local human readable time. Includes some one-liners. Looks up timezone.txt file.
+Many lines are copied from https://blog.sleeplessbeastie.eu/2013/10/31/how-to-deal-with-dmesg-timestamps/ . Thanks!
 
 ## timezone.txt:
 
