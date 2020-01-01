@@ -1,6 +1,6 @@
 # timezone_abbrev
 
-Scraped text from https://www.timeanddate.com/time/zones/ and some bash one liners and a script.
+Scraped text from https://www.timeanddate.com/time/zones/ and some bash one-liners and a script.
 
 ## Usage:
 
